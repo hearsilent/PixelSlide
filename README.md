@@ -15,7 +15,7 @@ Android ICE CREAM SANDWICH 4.0.3+
 
 ## Credits
 
-This project was inspired by the [Android-ExpandIcon](https://github.com/zagum/Android-ExpandIcon) library by zagum and the [Pixel Launcher](zagum) app by Google.
+This project was inspired by the [Android-ExpandIcon](https://github.com/zagum/Android-ExpandIcon) library by zagum and the [Pixel Launcher](https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher) app by Google.
 
 ## License
 
