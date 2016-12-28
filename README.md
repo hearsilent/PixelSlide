@@ -19,7 +19,7 @@ This project was inspired by the [Android-ExpandIcon](https://github.com/zagum/A
 
 ## License
 
-MIT License
+    MIT License
 
     Copyright (c) 2016 HearSilent
 
