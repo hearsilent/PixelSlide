@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	android:id="@+id/bottom_sheet"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#303030"
+	android:orientation="vertical"
+	android:paddingTop="8dp"
+	app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
+	tools:ignore="rtlHardcoded">
+
+	<com.github.zagum.expandicon.ExpandIconView
+		android:id="@+id/expandIconView"
+		android:layout_width="16dp"
+		android:layout_height="16dp"
+		android:layout_gravity="center_horizontal"
+		android:layout_margin="4dp"
+		android:alpha="0.7"
+		android:contentDescription="@null"
+		app:animationDuration="300"
+		app:color="#FFF"
+		app:roundedCorners="false"
+		app:switchColor="false"/>
+
+</FrameLayout>
