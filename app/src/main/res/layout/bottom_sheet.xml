@@ -14,15 +14,14 @@
 
 	<com.github.zagum.expandicon.ExpandIconView
 		android:id="@+id/expandIconView"
-		android:layout_width="16dp"
-		android:layout_height="16dp"
+		android:layout_width="24dp"
+		android:layout_height="24dp"
 		android:layout_gravity="center_horizontal"
-		android:layout_margin="4dp"
 		android:alpha="0.7"
 		android:contentDescription="@null"
-		app:animationDuration="300"
-		app:color="#FFF"
-		app:roundedCorners="false"
-		app:switchColor="false"/>
+		app:eiv_animationDuration="300"
+		app:eiv_color="#FFF"
+		app:eiv_roundedCorners="false"
+		app:eiv_switchColor="false"/>
 
 </FrameLayout>
